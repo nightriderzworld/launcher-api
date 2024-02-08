@@ -1,1 +1,17 @@
-[{"title":"NIGHTRIDERZ CDN","url":"https:\/\/cdn.nightriderz.world\/nfsw\/","region":"EU"}]
+[
+  {
+    "title": "DAVID CARBON CDN",
+    "url": "http://g2-sbrw.davidcarbon.download/",
+    "region": "US"
+  },
+  {
+    "title": "DAVID CARBON CDN 2",
+    "url": "http://g-sbrw.davidcarbon.download/",
+    "region": "CA"
+  },
+  {
+    "title": "WUGG CDN",
+    "url": "https://cdn.worldunited.gg/",
+    "region": "US"
+  }
+]

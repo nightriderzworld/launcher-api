@@ -1,7 +1,7 @@
 [
   {
     "id": "nrz_horizon",
-    "name": "NRZ / Horizon",
+    "name": "NIGHTRIDERZ: Horizon",
     "type": "public",
     "core_url": "https://horizon.nightriderz.world/Engine.svc/",
     "info_url": "https://api.nightriderz.world/launcher/infos.php",
@@ -10,7 +10,7 @@
     "discord": "https://discord.gg/nightriderz",
     "discord_faq": "https://discord.com/channels/441259702454845450/527822653247979552",
     "discord_help": "https://discord.com/channels/441259702454845450/548846997512126465",
-    "server_logo": "https://cdn.nightriderz.world/images/launcher/NRZ.png",
+    "server_logo": "https://cdn.nightriderz.world/images/launcher/NRZHRZN.png",
     "colors": [
       "#4020FF",
       "#6200ff"
@@ -69,16 +69,16 @@
   },
   {
     "id": "nrz_thelab",
-    "name": "NRZ / The lab",
+    "name": "NIGHTRIDERZ: The Lab",
     "type": "dev",
     "core_url": "https://core.thelab.nightriderz.world/Engine.svc/",
-    "info_url": "https://api.nightriderz.world/launcher/infos.php",
+    "info_url": "https://api.nightriderz.world/launcher/infos_lab.php",
     "register_url": null,
-    "website": null,
-    "discord": null,
+    "website": "https://nightriderz.world",
+    "discord": "https://discord.gg/nightriderz",
     "discord_faq": null,
     "discord_help": null,
-    "server_logo": "https://cdn.nightriderz.world/images/launcher/NRZ.png",
+    "server_logo": "https://cdn.nightriderz.world/images/launcher/NRZTL.png",
     "colors": [
       "#018de6",
       "#00dd86"
